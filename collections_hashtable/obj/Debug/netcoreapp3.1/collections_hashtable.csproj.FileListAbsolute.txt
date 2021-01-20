@@ -1,0 +1,13 @@
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\bin\Debug\netcoreapp3.1\collections_hashtable.exe
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\bin\Debug\netcoreapp3.1\collections_hashtable.deps.json
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\bin\Debug\netcoreapp3.1\collections_hashtable.runtimeconfig.json
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\bin\Debug\netcoreapp3.1\collections_hashtable.runtimeconfig.dev.json
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\bin\Debug\netcoreapp3.1\collections_hashtable.dll
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\bin\Debug\netcoreapp3.1\collections_hashtable.pdb
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\obj\Debug\netcoreapp3.1\collections_hashtable.csprojAssemblyReference.cache
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\obj\Debug\netcoreapp3.1\collections_hashtable.AssemblyInfoInputs.cache
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\obj\Debug\netcoreapp3.1\collections_hashtable.AssemblyInfo.cs
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\obj\Debug\netcoreapp3.1\collections_hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\obj\Debug\netcoreapp3.1\collections_hashtable.dll
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\obj\Debug\netcoreapp3.1\collections_hashtable.pdb
+C:\Users\Techverx\source\repos\collections_hashtable\collections_hashtable\obj\Debug\netcoreapp3.1\collections_hashtable.genruntimeconfig.cache
